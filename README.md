@@ -1,13 +1,10 @@
-# COVID-19 Career Survey
+# COVID-19 Career Impact Survey
 
-Demonstrating 
-- Survey design
-- Data collection
-- Loading data 
-- Cleaning data and putting into tidy format 
+A data analysis project which demonstrates the following in Python, Numpy, Pandas, Matplotlib and Seaborn:
+
+- Data import and validation
+- Data cleaning  
 - Statistical analysis 
-- Visualizations
+- Visualization
 - Conclusions 
 - Recommendations for improvement and future study
-
-Written in Python and utilizing Numpy, Pandas, Matplotlib and Seaborn libraries.

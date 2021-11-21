@@ -9,4 +9,4 @@ A data analysis project which demonstrates the following in Python, Numpy, Panda
 - Conclusions 
 - Recommendations for improvement and future study
 
-Click the file above titled ![Resume Preview](COVID-career-impact-report.ipynb) to view the project in Jupyter Notebook format.
+Click the file above titled [Resume Preview](COVID-career-impact-report.ipynb) to view the project in Jupyter Notebook format.
